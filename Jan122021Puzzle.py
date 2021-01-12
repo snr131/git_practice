@@ -13,7 +13,7 @@ def function(num):
       return 0
       print('wrong input... BYE!')
   # if the function input "num" is an integer, the sum will be printed
-  print(sum)
+  print(sum+num)
 
 
 function(4)
